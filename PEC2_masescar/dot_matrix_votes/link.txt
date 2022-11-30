@@ -1,0 +1,8 @@
+FUENTE
+
+https://www.kaggle.com/datasets/mlprojectbth/spanish-region-and-election-results
+
+
+VISUALIZACIÓN
+
+https://public.flourish.studio/visualisation/12005561/
